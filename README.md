@@ -122,4 +122,11 @@
 <div align="left">
 </div>
 
+###----------
+
+
+<img src="https://raw.githubusercontent.com/BearerOP/BearerOP/output/snake.svg" alt="Snake animation" />
+
 ###
+
+
