@@ -113,16 +113,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=gruvbox_light" alt="Layout with last medium posts"  />
-</div>
-
 ###
 
 <div align="left">
 </div>
 
-###----------
+###
 
 
 <img src="https://raw.githubusercontent.com/BearerOP/BearerOP/output/snake.svg" alt="Snake animation" />
