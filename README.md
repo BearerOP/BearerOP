@@ -26,11 +26,11 @@
 ###
 
 <h1 align="center">hey there 👋</h1>
-<h1 align="center">My Portfolio: https://ankityadav189.netlify.app </h1>
 
 ###
 
 <p align="center">I'm Ankit Yadav from INDIA 🇮🇳<br><br>- 🔭 I’m working as MERN Developer<br>- 📚 I'm currently learning TypeScript<br>- ⚡ In my free time I Code..</p>
+<p align="center">My Portfolio: https://ankityadav189.netlify.app </p>
 
 ###
 
