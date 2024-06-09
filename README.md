@@ -1,5 +1,3 @@
-![an](https://github.com/BearerOP/BearerOP/assets/96431371/65d8f098-c12d-4b2b-80d4-47530872466f)
-
 
 ###
 
