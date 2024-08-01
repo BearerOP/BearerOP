@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">I'm Ankit Yadav from INDIA 🇮🇳<br><br>- 🔭 I’m working as MERN Developer<br>- 📚 I'm currently learning TypeScript<br>- ⚡ In my free time I Code..</p>
+<p align="center">I'm Ankit Yadav from INDIA 🇮🇳<br><br>- 🔭 I’m working as MERN Developer<br>- 📚 I'm currently learning TypeScript<br>- ⚡ Also stepping inot WEB 3.0 </p>
 <p align="center">My Portfolio: https://ankityadav189.netlify.app </p>
 
 ###
