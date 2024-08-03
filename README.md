@@ -23,12 +23,13 @@
 </div>
 
 ###
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ankit+%F0%9F%91%8B;Let's+Connect+%F0%9F%94%97)](https://git.io/typing-svg)
+<div style="text-align: center;"> 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Ankit%F0%9F%91%8B;Let's+Connect!"/>
+</div>
 
 ###
 
-<p align="center">I'm Ankit Yadav from INDIA 🇮🇳<br><br>- 🔭 I’m working as MERN Developer<br>- 📚 I'm currently learning TypeScript<br>- ⚡ Also stepping into WEB 3.0 </p>
+<p align="center"><br>- 🔭 I’m working as MERN Developer<br>- 📚 I'm currently learning TypeScript<br>- ⚡ Also stepping into WEB 3.0 </p>
 <p align="center">My Portfolio: https://ankityadav189.netlify.app </p>
 
 ###
