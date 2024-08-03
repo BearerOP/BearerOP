@@ -24,7 +24,7 @@
 
 ###
 
-[[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Ankit+%F0%9F%91%8B;Let's+Connect+%F0%9F%94%97)](https://git.io/typing-svg)](https://readme-typing-svg.herokuapp.com/demo/?weight=600&size=25&duration=3000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ankit+%F0%9F%91%8B;Let's+Connect+%F0%9F%94%97)
+[[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Ankit+%F0%9F%91%8B;Let's+Connect+%F0%9F%94%97)](https://git.io/typing-svg)]
 
 ###
 
