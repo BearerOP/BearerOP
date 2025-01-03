@@ -4,7 +4,7 @@
 </div>
 
 
----
+<hr/>
 <div align='left'>
 This is my portfolio: <a href='https://bearerop.tech' target='_blank' >bearerop.tech
   </a>
