@@ -6,9 +6,10 @@
 
 ---
 <div align='left'>
-This is my portfolio: <a href='https://bearerop.tech' >bearerop.tech
+This is my portfolio: <a href='https://bearerop.tech' target='_blank' >bearerop.tech
   </a>
 </div>
+
 ---
 
 <p align="center">
