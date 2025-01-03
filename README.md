@@ -3,7 +3,7 @@
   <img align='top' src="https://visitor-badge.laobi.icu/badge?page_id=BearerOP.BearerOP&" alt="Visitor Badge" />
 </div>
 <div align='left'>
-This is my portfolio: <a href='https://bearerop.tech' target='_blank' >bearerop.tech
+This is my portfolio: <a href='https://bearerop.tech' target='_blank' ><i>bearerop.tech</i>
   </a>
 </div>
 <hr/>
