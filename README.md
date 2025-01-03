@@ -3,7 +3,7 @@
     <td style="border: none;">
       <img
         height="200"
-        src="https://cdn.discordapp.com/attachments/1033057271971852399/1324626450636083284/IMG_3768-Photoroom_1.jpg?ex=6778d604&is=67778484&hm=66581fd79fd023dae9b4fedc49669521d6cc10515351d442530d87889dbd4c65&"
+        src="https://cdn.discordapp.com/attachments/1033057271971852399/1324631946395127848/image_7.png?ex=6778db22&is=677789a2&hm=3ee00d5e5beae566571b1b8612e8488260062237ed1ebde83b2a7cadfaae51af&"
         alt="Ankit's Avatar"
       />
     </td>
