@@ -1,7 +1,7 @@
 ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FBearerOP0591b.png?alt=media)
 
 <table align='center' style="border-collapse: collapse; border: none;">
-  <tr style="border:none;">
+<!--   <tr style="border:none;">
     <td style="border: none;">
       <img
         height="200"
@@ -22,14 +22,14 @@
       />
   </h4>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 <p align="center">
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/BearerOP/BearerOP/output/snake.svg"
     alt="Snake animation"
-  />
+  /> -->
 </p>
 
 
