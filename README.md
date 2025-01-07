@@ -3,7 +3,7 @@
     <td style="border: none;">
       <img
         height="200"
-        src="https://cdn.discordapp.com/attachments/1033057271971852399/1324631946395127848/image_7.png?ex=6778db22&is=677789a2&hm=3ee00d5e5beae566571b1b8612e8488260062237ed1ebde83b2a7cadfaae51af&"
+        src="https://firebasestorage.googleapis.com/v0/b/theslugproject.appspot.com/o/image%20(7).png?alt=media&token=c204a99e-72c5-471d-b3e5-fd45d7a94bb5"
         alt="Ankit's Avatar"
       />
     </td>
@@ -29,3 +29,4 @@
     alt="Snake animation"
   />
 </p>
+
