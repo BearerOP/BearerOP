@@ -5,6 +5,7 @@
 <table align='center' style="border-collapse: collapse; border: none;">
 <!--   <tr style="border:none;">
     <td style="border: none;">
+    
       <img
         height="200"
         src="https://firebasestorage.googleapis.com/v0/b/theslugproject.appspot.com/o/image%20(7).png?alt=media&token=c204a99e-72c5-471d-b3e5-fd45d7a94bb5"
