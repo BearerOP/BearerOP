@@ -12,6 +12,7 @@
         alt="Ankit's Avatar"
       />
     </td>
+    
     <td style="border: none;">
       <h2>Hi 👋 I'm Ankit, a full-stack problem solver!</h2>
        <h4>
