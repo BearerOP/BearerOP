@@ -1,4 +1,4 @@
-const apiUrl = "https://opbento.edgexhq.tech/api/bento?n=Ankit%20Yadav&g=BearerOP&x=ankit_189&l=yadavankit189&i=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Ftheslugproject.appspot.com%2Fo%2Fimage%2520(7).png%3Falt%3Dmedia%26token%3Dc204a99e-72c5-471d-b3e5-fd45d7a94bb5&p=https%3A%2F%2Fbearerop.tech&z=0591b";
+const apiUrl = "https://opbento.edgexhq.tech/api/bento?n=Ankit&g=bearerOP&x=ankit_twt&l=yadavankit189&i=https%3A%2F%2Fres.cloudinary.com%2Fdg62qprjy%2Fimage%2Fupload%2Fv1768998928%2FIMG_7625_j3ezat.png&p=bearerop.live&z=cad70";
 interface BentoResponse {
   url: string;
 }
